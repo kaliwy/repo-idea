@@ -8,6 +8,8 @@ public interface GitMapper {
     public void git1();
     public void git2();
     public void git3();
+    public void dev();
+
 
 
 }
